@@ -478,4 +478,38 @@ pre code { font-size: 15px !important; }
 
 p code { font-size: 19px; }
 
+html, body, input, textarea, select, button { color: rgba(255, 255, 255, 0.87) !important; background-color: #073642 !important; }
+
+a { color: #49b0f0 !important; }
+
+a:hover { color: rgba(255, 255, 255, 0.87) !important; }
+
+.site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 255, 255, 0.87) !important; }
+
+.site-nav { background-color: #073642; border-color: #2a525c; }
+
+* { scrollbar-color: #073642 #2a525c; }
+
+pre, code { border-color: #2a525c; background-color: #13404b; }
+
+.page-description { color: rgba(255, 255, 255, 0.69); }
+
+.post-meta { color: rgba(255, 255, 255, 0.38); }
+
+.post-content p, .post-content li { color: rgba(255, 255, 255, 0.69); }
+
+.btn { background-color: #13404b !important; color: rgba(255, 255, 255, 0.87) !important; border-color: #2a525c !important; }
+
+.btn:hover { background-color: #073642 !important; }
+
+table th { background-color: #13404b; border-color: #2a525c; color: rgba(255, 255, 255, 0.87); }
+
+table td { background-color: #073642; border-color: #2a525c; color: rgba(255, 255, 255, 0.69); }
+
+.flash { color: #073642 !important; filter: brightness(80%); }
+
+canvas { filter: invert(100%); }
+
+li .post-meta-description { color: #6266b5; }
+
 /*# sourceMappingURL=style.css.map */
