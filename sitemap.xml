@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://juancarl0s.com/markdown/2020/01/14/test-markdown-post.html</loc>
-<lastmod>2020-01-14T00:00:00-06:00</lastmod>
-</url>
-<url>
 <loc>https://juancarl0s.com/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
@@ -37,31 +33,7 @@
 <lastmod>2020-11-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://juancarl0s.com/jupyter/2020/12/06/area-plot.html</loc>
-<lastmod>2020-12-06T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>https://juancarl0s.com/jupyter/2020/12/06/barchart-plot.html</loc>
-<lastmod>2020-12-06T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>https://juancarl0s.com/jupyter/2020/12/06/box-plot.html</loc>
-<lastmod>2020-12-06T00:00:00-06:00</lastmod>
-</url>
-<url>
 <loc>https://juancarl0s.com/python/tutorial/espa%C3%B1ol/2020/12/06/comprension-List-Set-Dict.html</loc>
-<lastmod>2020-12-06T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>https://juancarl0s.com/jupyter/2020/12/06/histogram-plot.html</loc>
-<lastmod>2020-12-06T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>https://juancarl0s.com/jupyter/2020/12/06/line-plot.html</loc>
-<lastmod>2020-12-06T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>https://juancarl0s.com/jupyter/2020/12/06/pie-chart-plot.html</loc>
 <lastmod>2020-12-06T00:00:00-06:00</lastmod>
 </url>
 <url>
@@ -79,8 +51,5 @@
 </url>
 <url>
 <loc>https://juancarl0s.com/categories/</loc>
-</url>
-<url>
-<loc>https://juancarl0s.com/page2/</loc>
 </url>
 </urlset>
